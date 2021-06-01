@@ -11,5 +11,4 @@ public class Mainin {
         String msgB = "World";
         System.out.println(getString(() -> msgA + msgB));
     }
-
 }
